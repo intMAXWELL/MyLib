@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RecordButton">
+
+        <!--取消录音对话框图片资源-->
+        <attr name="pic_voice_cancel" format="reference"/>
+        <!--开始录音按钮背景-->
+        <attr name="pic_voice_start" format="reference"/>
+        <!--停止录音按钮背景-->
+        <attr name="pic_voice_stop" format="reference"/>
+        <!--最小录音时间-->
+        <attr name="min_interval_time" format="integer"/>
+
+    </declare-styleable>
+</resources>
