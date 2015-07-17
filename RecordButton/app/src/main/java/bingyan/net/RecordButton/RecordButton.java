@@ -60,6 +60,7 @@ import static android.os.Environment.isExternalStorageRemovable;
  * {@link bingyan.net.RecordButton.R.styleable#RecordButton_pic_voice_stop}
  *
  * <p> 使用例子 </p>
+ *
  * <p> 代码 </p>
  * <pre>
  * final RecordButton recordButton = (RecordButton) findViewById(R.id.rec);
@@ -68,11 +69,16 @@ import static android.os.Environment.isExternalStorageRemovable;
  *           //自定义录音结束回调
  *       }});
  * </pre>
+ *
  * <p> Xml 文件</p>
  * <pre>
  * xmlns:app="http://schemas.android.com/apk/res-auto"
  * app:pic_voice_cancel="@mipmap/speaking_cancel"
  * </pre>
+ *
+ * <p> 加入权限 </p>
+ *     <uses-permission android:name="android.permission.RECORD_AUDIO" />
+ *     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
  */
 
 public class RecordButton extends Button implements OnMediaRecord {
