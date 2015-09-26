@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocalPhoto</string>
+    <string name="the_album_is_loading">相册加载中…</string>
+    <string name="action_finish">完成</string>
+</resources>

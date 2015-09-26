@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/app/build.gradle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/bingyan/net/localphoto/CheckImageLoaderConfiguration.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/bingyan/net/localphoto/MyApplication.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/bingyan/net/localphoto/RotateImageAware.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/bingyan/net/localphoto/ThumbnailsUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/bingyan/net/localphoto/UniversalImageLoaderTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/bingyan/net/localphoto/activity/SelectMultiplePhotoActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/bingyan/net/localphoto/activity/SelectSinglePhotoActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/bingyan/net/localphoto/adapter/PhotoFolderAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/bingyan/net/localphoto/adapter/PhotoMultipleAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/bingyan/net/localphoto/adapter/PhotoSingleAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/bingyan/net/localphoto/bean/AlbumInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/bingyan/net/localphoto/bean/PhotoInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/bingyan/net/localphoto/bean/PhotoSerialzable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/bingyan/net/localphoto/fragment/PhotoFolderFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/bingyan/net/localphoto/fragment/PhotoMultipleFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/bingyan/net/localphoto/fragment/PhotoSingleFragment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_selectphoto.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_photo_folder.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_photo_select.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu/menu_select_multiple_photo.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/gou_normal.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/gou_selected.png" charset="UTF-8" />
+  </component>
+</project>

@@ -292,7 +292,7 @@ public class RecordButton extends Button implements OnMediaRecord {
          * @param fileName 录音文件路径
          * @param lastTime 录音持续时间
          */
-        public void onFinishedRecord(String fileName, int lastTime);
+        void onFinishedRecord(String fileName, int lastTime);
     }
 
     /** 完成录音回调 */
